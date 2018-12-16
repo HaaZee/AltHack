@@ -14,7 +14,7 @@
 
 **Rules:**
 
-- Dont edit the loading.txt or shortload.txt > There is no need and it won't change anything
+- Dont edit the loading.txt or shortload.txt  _There is no need and it won't change anything_
 - Have fun
 
 
