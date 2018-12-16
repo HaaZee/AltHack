@@ -23,8 +23,9 @@
 - New levels
 - Main menu
   - Save and load feature
-
+  
 - New tools
   - New hacks
   
 - Cheat sheet
+- Terminal customisation
