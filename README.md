@@ -9,7 +9,7 @@
 
 **Requirements:**
 
-- There are none, just run the exe.
+- There are none, just download all the files and run the .exe
 
 
 **Rules:**
