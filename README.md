@@ -1,4 +1,4 @@
-# Hacking-Sim
+# AltHack
 
 **Aim of game:**
 
