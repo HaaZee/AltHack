@@ -21,11 +21,11 @@
 **Coming soon:**
 
 - New levels
-- Main menu
+- Main menu ✔
   - Save and load feature
   
 - New tools
   - New hacks
   
 - Cheat sheet
-- Terminal customisation
+- Terminal customisation ✔
