@@ -22,7 +22,7 @@
 
 - New levels
 - Main menu ✔
-  - Save and load feature
+  - Save and load feature ✔
   
 - New tools
   - New hacks
